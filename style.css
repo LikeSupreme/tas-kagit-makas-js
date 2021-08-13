@@ -1,0 +1,19 @@
+body
+{
+    background-color:black;
+    color: skyblue;
+    font-family: Verdana, sans-serif;
+}
+
+h1, h2, h3, h4
+{
+    font-family: "Segoe UI", Arial, sans-serif;
+    color:hotpink;
+    text-align: center;
+}
+
+#game, #result
+{
+    text-align: center;
+}
+
