@@ -17,3 +17,23 @@ h1, h2, h3, h4
     text-align: center;
 }
 
+footer
+{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  margin-left: -8px;
+  height: 30px;
+  padding: 8px ;
+  background-color: rgb(39, 39, 39);
+  text-align: center;
+}
+
+a:hover, a:visited
+{
+    color: hotpink;
+}
+
+a:active{
+    color: skyblue;
+}
